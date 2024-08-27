@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">TrueNobleStoryApp</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="login_form">Masuk.</string>
+    <string name="message_welcome_page">Bagikan insipirasi kamu berkembang menjadi lebih baik dengan True Noble.</string>
+    <string name="message_license">Graphic Design by Open Peeps</string>
+    <string name="title_welcome_page">True Noble</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini.</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">bersama True Noble.</string>
+    <string name="title_login_page">Ceritakan inspirasimu</string>
+    <string name="name">Nama</string>
+    <string name="logout">Keluar</string>
+    <string name="image">image</string>
+    <string name="empty_name">Nama masih kosong</string>
+    <string name="upload">Unggah Foto</string>
+    <string name="empty_image_warning">Pilih gambar terlebih dahulu</string>
+    <string name="upload_image_desc">Ceritakan pengalamanmu disini!</string>
+    <string name="switch_camera">Switch Camera</string>
+    <string name="captured_image">Captured Image</string>
+    <string name="peeps_anim_login">peeps_anim_login</string>
+    <string name="peeps_anim_welcome">peeps_anim_welcome</string>
+    <string name="tambah_cerita">Tambah cerita</string>
+    <string name="peeps_anim_signup">peeps_anim_signup</string>
+    <string name="maps">Peta Cerita</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>

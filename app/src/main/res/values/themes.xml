@@ -1,0 +1,18 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.LoginWithAnimation" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="fontFamily">@font/merriweather</item>
+    </style>
+
+    <style name="Theme.LoginWithAnimation" parent="Base.Theme.LoginWithAnimation" />
+    <style name="Theme.LoginWithAnimation.Button" parent="Widget.Material3.Button">
+        <item name="backgroundTint">@color/white</item>
+        <item name="cornerRadius">5dp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="strokeWidth">1dp</item>
+        <item name="strokeColor">@color/black</item>
+        <item name="rippleColor">@color/light_grey</item>
+    </style>
+</resources>
